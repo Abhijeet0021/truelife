@@ -53,11 +53,8 @@ UI/UX design principles
 Responsive web development
 Real-world NGO website implementation
 ##📸 Screenshots
-<p align="center">
-  <img src="![Uploading Screenshot 2026-04-24 at 10.57.41 AM.png…]()
-" />
-</p>
 
+![Homepage]()
 ##📈 Future Improvements
 🔹 Add backend for donation handling
 🔹 Integrate payment gateway
