@@ -129,11 +129,17 @@ Full details in [`backend/README.md`](backend/README.md).
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots to the docs/ folder (see docs/README.md for how). -->
+**Home**
 
-| Home | Admin Dashboard | Gallery |
-|------|-----------------|---------|
-| ![Home](docs/home.png) | ![Admin dashboard](docs/dashboard.png) | ![Gallery](docs/gallery.png) |
+![Home](docs/home.png)
+
+**Donation (with Razorpay)**
+
+![Donate](docs/donate.png)
+
+**Admin Dashboard (analytics + submissions)**
+
+![Admin dashboard](docs/dashboard.png)
 
 ---
 
