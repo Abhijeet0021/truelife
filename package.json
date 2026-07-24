@@ -1,21 +1,13 @@
 {
-  "name": "true-life-foundation",
-  "private": true,
+  "name": "truelife",
   "version": "1.0.0",
-  "type": "module",
+  "private": true,
+  "description": "True Life Foundation — full-stack (React frontend + Express/MongoDB backend)",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "@emailjs/browser": "^4.4.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^7.13.1"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.2.1",
-    "vite": "^5.2.0"
+    "install:all": "npm --prefix frontend install && npm --prefix backend install",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run dev",
+    "build": "npm --prefix frontend run build",
+    "start:backend": "npm --prefix backend start"
   }
 }
