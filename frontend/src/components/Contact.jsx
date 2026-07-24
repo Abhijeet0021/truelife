@@ -2,9 +2,8 @@ import { useState } from "react";
 import { api } from "../services/api";
 
 const CONTACT_INFO = [
-  { icon: "📍", label: "Location", value: "India" },
-  { icon: "✉️", label: "Email",    value: "singhabhijeet0021@gmail.com" },
-  { icon: "📞", label: "Phone",    value: "+91 7461800396" },
+  { icon: "📍", label: "Location", value: "Patna, Bihar" },
+  { icon: "✉️", label: "Email",    value: "truelifefoundation@gmail.com" },
 ];
 
 const SOCIALS = [

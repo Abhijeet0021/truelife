@@ -526,10 +526,9 @@ export default function VolunteerPage() {
             <h3 className="vp-sidebar__title">Questions?</h3>
             <p className="vp-sidebar__text">
               Email us at{" "}
-              <a href="mailto:volunteer@truelifefoundation.org" className="vp-sidebar__link">
-                volunteer@truelifefoundation.org
+              <a href="mailto:truelifefoundation@gmail.com" className="vp-sidebar__link">
+                truelifefoundation@gmail.com
               </a>
-              <br />or call <strong>+91 74618 00396</strong>
             </p>
           </div>
         </aside>

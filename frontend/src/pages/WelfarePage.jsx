@@ -15,7 +15,7 @@ const PROGRAMS = [
     title: "Women's Self-Help Groups (SHGs)",
     status: "Ongoing",
     statusColor: "#7b2d8b",
-    year: "Since 2020",
+    year: "Since 2023",
     desc: "We form and nurture SHGs of 15–20 women each, providing financial literacy training, group savings facilitation, and linkages to bank credit so women can start or grow small businesses.",
     outcomes: [
       "20 active SHGs with 300+ women members",
@@ -28,7 +28,7 @@ const PROGRAMS = [
     title: "Micro-Finance Linkages",
     status: "Ongoing",
     statusColor: "#7b2d8b",
-    year: "Since 2021",
+    year: "Since 2023",
     desc: "We work with nationalised banks and MFIs to help low-income women access formal credit at fair interest rates — replacing predatory moneylenders who charged 60–120% annual interest.",
     outcomes: [
       "Rs. 1.2 crore in loans facilitated for 180 women entrepreneurs",
@@ -41,7 +41,7 @@ const PROGRAMS = [
     title: "Legal Aid Cell",
     status: "Ongoing",
     statusColor: "#7b2d8b",
-    year: "Since 2022",
+    year: "Since 2024",
     desc: "A team of trained paralegal volunteers and empanelled lawyers provides free legal counselling for domestic violence, property disputes, child custody, and government entitlement issues.",
     outcomes: [
       "55 cases resolved through legal aid",

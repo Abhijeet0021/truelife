@@ -129,13 +129,11 @@ Full details in [`backend/README.md`](backend/README.md).
 
 ## 📸 Screenshots
 
-_Add screenshots here — they make the project instantly clear to anyone viewing the repo._
+<!-- Add your screenshots to the docs/ folder (see docs/README.md for how). -->
 
-| Home | Admin Dashboard |
-|------|-----------------|
-| `docs/home.png` | `docs/dashboard.png` |
-
-> Tip: create a `docs/` folder, drop in a few PNG screenshots, and update the paths above.
+| Home | Admin Dashboard | Gallery |
+|------|-----------------|---------|
+| ![Home](docs/home.png) | ![Admin dashboard](docs/dashboard.png) | ![Gallery](docs/gallery.png) |
 
 ---
 

@@ -8,9 +8,9 @@ const PRESETS = [500, 1000, 5000];
    pan + reg80G to add the tax-exemption line to receipts. */
 const ORG = {
   name: "True Life Foundation",
-  address: "India",
-  email: "singhabhijeet0021@gmail.com",
-  phone: "+91 74618 00396",
+  address: "Patna, Bihar",
+  email: "truelifefoundation@gmail.com",
+  phone: "",
   has80G: false,
   pan: "",
   reg80G: "",
@@ -49,7 +49,7 @@ function openReceipt(d) {
     @media print{button{display:none}}
   </style></head><body>
     <div class="top">
-      <div><h1>${ORG.name}</h1><div class="muted">${ORG.address}<br>${ORG.email} · ${ORG.phone}</div></div>
+      <div><h1>${ORG.name}</h1><div class="muted">${ORG.address}<br>${ORG.email}${ORG.phone ? ` · ${ORG.phone}` : ""}</div></div>
       <div class="badge">DONATION RECEIPT</div>
     </div>
     <table>

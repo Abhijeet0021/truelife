@@ -15,7 +15,7 @@ const PROGRAMS = [
     title: "After-School Tutoring",
     status: "Ongoing",
     statusColor: "#2d6a4f",
-    year: "Since 2022",
+    year: "Since 2023",
     desc: "Free evening tutoring sessions run across 12 rural villages, covering Maths, Science, and English for students in classes 6–12. Staffed by 45 trained volunteer educators.",
     outcomes: [
       "Average grades improved by 32% within one academic year",
@@ -41,7 +41,7 @@ const PROGRAMS = [
     title: "Scholarship Fund",
     status: "Ongoing",
     statusColor: "#2d6a4f",
-    year: "Since 2022",
+    year: "Since 2023",
     desc: "Merit-cum-means scholarships covering tuition, books, and transport for students from BPL families. Recipients are selected through a transparent committee process and mentored throughout.",
     outcomes: [
       "Rs. 40 lakh disbursed to 120 scholarship recipients",
@@ -67,7 +67,7 @@ const PROGRAMS = [
     title: "Teacher Training Program",
     status: "Completed",
     statusColor: "#e67e22",
-    year: "2022 – 2023",
+    year: "2023 – 2024",
     desc: "A 6-month certified training program for government school teachers in child-centred teaching methods, classroom management, and technology-aided learning.",
     outcomes: [
       "80 government school teachers trained",
@@ -80,7 +80,7 @@ const PROGRAMS = [
     title: "Mobile Library",
     status: "Completed",
     statusColor: "#e67e22",
-    year: "2022 – 2024",
+    year: "2023 – 2024",
     desc: "A van converted into a mobile library visited 8 villages weekly, providing access to 2,000+ books, magazines, and educational materials for children and adults alike.",
     outcomes: [
       "8 villages served weekly for 2 years",
@@ -125,8 +125,8 @@ function EducationPage() {
           <h1 className="wp-hero__title">Unlocking Potential<br />Through Learning</h1>
           <p className="wp-hero__subtitle">
             We believe education is the single most powerful lever for breaking
-            the cycle of poverty. Since 2020, our programs have transformed
-            hundreds of young lives across rural India.
+            the cycle of poverty. Since 2023, our programs have transformed
+            young lives across Bihar.
           </p>
         </div>
       </div>
@@ -149,14 +149,14 @@ function EducationPage() {
             <span className="section-label">Our Story</span>
             <h2 className="section-title">Why Education Comes First</h2>
             <p className="wp-body">
-              When True Life Foundation was founded in 2020, one fact was undeniable: in the
+              When True Life Foundation was founded in 2023, one fact was undeniable: in the
               communities we serve, a child's education is constantly at risk — from financial
               pressure, a lack of quality teachers, and the absence of any learning infrastructure
               beyond a crumbling government school.
             </p>
             <p className="wp-body">
-              We started with a single tutoring centre in one village and 12 students. Five years
-              later, we run 6 distinct education programs, serve 500+ students annually, and have
+              We started with a single tutoring centre and a handful of students. Today,
+              we run several education programs, serve students across Bihar, and have
               seen what genuine, sustained educational support can do — it changes the entire
               trajectory of a family.
             </p>

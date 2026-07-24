@@ -30,6 +30,7 @@ export function createApp() {
     cors({
       origin(origin, cb) {
         if (!origin) return cb(null, true); // curl / same-origin / server-to-server
+        if (origins.includes("*")) return cb(null, true); // allow all (set CLIENT_ORIGIN=*)
         if (origins.includes(origin)) return cb(null, true);
         if (isDev && /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?$/.test(origin)) {
           return cb(null, true);
